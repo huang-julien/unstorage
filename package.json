@@ -64,6 +64,7 @@
     "@azure/storage-blob": "^12.18.0",
     "@capacitor/preferences": "^6.0.0",
     "@cloudflare/workers-types": "^4.20240524.0",
+    "@dapr/dapr": "^3.4.0",
     "@netlify/blobs": "^7.3.0",
     "@planetscale/database": "^1.18.0",
     "@types/ioredis-mock": "^8.2.5",
